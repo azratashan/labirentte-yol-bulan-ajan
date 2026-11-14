@@ -1,0 +1,2 @@
+# Bu proje harici bir kutuphane kurulumu gerektirmez.
+# Python 3.10+ standart kutuphaneleri (tkinter, heapq, collections, random, time) ile calisir.
